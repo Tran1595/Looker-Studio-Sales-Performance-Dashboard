@@ -21,6 +21,9 @@ Looker Studio is a powerful, user-friendly data visualization tool that allows y
   
 ## Project Highlights
 
+Business Context
+The sales data represents a fictitious company that operates in the retail sector, offering a variety of products such as technology devices, office supplies, and furniture. The company serves different customer segments across multiple regions. The dataset provides a comprehensive view of the company's sales and profitability, making it ideal for learning and demonstration purposes.
+
 Data Visualization
 Interactive Dashboards: Utilizing Looker Studio, I've created interactive dashboards that display sales performance across various dimensions such as time, product categories, customer segments, and regions.
 
