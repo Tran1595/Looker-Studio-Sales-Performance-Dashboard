@@ -1,44 +1,13 @@
-# Sales Performance Dashboard
+# Looker Studio - Sales Performance Dashboard
 
 
 ## Overview
 
-Welcome to the **Sales Performance Dashboard** repository! This project showcases an interactive dashboard designed to provide valuable insights into sales performance. Created using **Google Sheets** and **Looker Studio**, this dashboard offers clear visualization of key sales metrics, empowering you to make informed decisions and drive revenue growth.
+Welcome to the Sales Data Visualization with Looker Studio repository! In this project, we harness the power of Looker Studio to transform raw sales data into interactive, insightful visualizations. The goal is to demonstrate how Looker Studio can be used to uncover valuable business insights and provide brief, actionable recommendations based on data analysis.
 
-## Features
+## Introducing Looker Studio
 
-- **Interactive Visualizations**: Explore dynamic charts and graphs that update automatically, allowing you to delve into sales data from various perspectives.
-
-- **Key Metrics Display**: Access essential sales metrics, including Total Sales, Sales Trends, Top-Selling Products, and Sales by Region—all in one centralized dashboard.
-
-- **User-Friendly Interface**: Navigate seamlessly through the dashboard with an intuitive layout and design.
-
-- **Customizable Filters**: Tailor your analysis by applying filters for specific time periods, product categories, regions, or customer segments.
-
-- **Cloud-Based Accessibility**: Access the dashboard online from anywhere, and share it easily with stakeholders for collaborative analysis.
-
-
-
-1. **Access the Dashboard:**
-
-You can view the interactive dashboard by clicking the link below:
-
-- [View the Looker Studio Dashboard](https://lookerstudio.google.com/s/t3M2nCvcP9c)
-
-
-
-2. **View the Data Source:**
-
-   - The underlying data is stored in Google Sheets. You can access the dataset here: [Google Sheets Data](#) 
-
-
-
-
-## Technologies Used
-
-- **Google Sheets**: For data storage, input, and basic data manipulation.
-
-- **Looker Studio**: For creating interactive, dynamic data visualizations and dashboards.
+Looker Studio is a powerful, user-friendly data visualization tool that allows you to create dynamic dashboards and reports. It's ideal for turning complex datasets into easy-to-understand visual narratives, enabling stakeholders to grasp key information quickly.
 
 ## Benefits to Viewers
 
@@ -49,4 +18,30 @@ You can view the interactive dashboard by clicking the link below:
 - **Real-Time Collaboration**: Share the dashboard with team members and stakeholders for collaborative analysis and decision-making.
 
 - **Actionable Insights**: Quickly identify trends, top performers, and areas needing attention to make informed, data-driven decisions.
+
+  
+## Project Highlights
+
+Data Visualization
+Interactive Dashboards: Utilizing Looker Studio, we've created interactive dashboards that display sales performance across various dimensions such as time, product categories, customer segments, and regions.
+
+Visual Insights: The dashboards include charts, Geo maps that make it easy to identify trends, patterns, and outliers in the sales data.
+
+
+ **Access the Dashboard:**
+
+
+<a href="https://lookerstudio.google.com/s/n9PwLMYHlHA">
+    <img src="https://github.com/Tran1595/Sales-Performance-Dashboard/blob/main/Screenshot%202025-02-17%20at%2014.32.21.png" alt="Thumbnail">
+</a>
+
+*Click on the image above to view the interactive dashboard.*
+
+
+
+
+  
+
+## Conclusion
+By leveraging Looker Studio for data visualization, we can transform raw sales data into meaningful insights that drive strategic decisions. This project demonstrates the value of visual analytics in understanding business performance and identifying actionable opportunities for growth.
 
