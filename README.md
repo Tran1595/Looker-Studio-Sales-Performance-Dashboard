@@ -40,7 +40,7 @@ Visual Insights: The dashboards include charts, Geo maps that make it easy to id
 
 ## Analysis Summary
 
-* Key business insights:
+i. Key business insights:
 
 - Identified top-selling products (Phones) and primary customer segments (Consumers).
 
@@ -48,7 +48,7 @@ Visual Insights: The dashboards include charts, Geo maps that make it easy to id
 
 - Highlighted high-performing regions contributing most to sales.
 
-* Direction to Go:
+ii. Direction to Go:
 
 - Focus on Best Sellers: Prioritize "Phones" and the Consumer segment in your sales and marketing efforts.
 
