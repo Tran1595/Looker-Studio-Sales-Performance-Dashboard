@@ -28,6 +28,11 @@ Looker Studio is a powerful, user-friendly data visualization tool that allows y
 - Visual Insights: The dashboards include charts, Geo maps that make it easy to identify trends, patterns in the sales data.
 
 
+**Data Edit Interface:**
+
+
+ <img src="https://raw.githubusercontent.com/Tran1595/Looker-Studio-Sales-Performance-Dashboard/refs/heads/main/data%20edit.png" alt="Thumbnail">
+
  **Access the Dashboard:**
 
 
