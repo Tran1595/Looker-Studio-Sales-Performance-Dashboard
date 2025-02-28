@@ -36,8 +36,8 @@ Looker Studio is a powerful, user-friendly data visualization tool that allows y
  **Access the Dashboard:**
 
 
-<a href="https://lookerstudio.google.com/s/n9PwLMYHlHA">
-    <img src="https://github.com/Tran1595/Sales-Performance-Dashboard/blob/main/Screenshot%202025-02-17%20at%2014.32.21.png" alt="Thumbnail">
+<a href="https://lookerstudio.google.com/s/k75RL0kXrfM">
+    <img src="Screenshot 2025-02-28 at 18.23.22.png" alt="Thumbnail">
 </a>
 
 *Click on the image above to view the interactive dashboard.*
