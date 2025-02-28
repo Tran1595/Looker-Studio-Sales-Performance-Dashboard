@@ -46,23 +46,22 @@ Looker Studio is a powerful, user-friendly data visualization tool that allows y
 
 ## Analysis Summary
 
-i. Key business insights:
+This report highlights a significant decline in monthly revenue, mainly due to a drop in non-returned orders. However, the yearly trend remains positive.
 
-- Identified top-selling products (Phones) and primary customer segments (Consumers).
+I. Insights:
+- A key insight is that while returns increased by 20%, the major driver of the revenue drop was actually fewer successful purchases rather than just more returns.
+Example: Revenue dropped by 29.23% MoM—mainly due to a decline in new orders.
 
-- Revealed sales trends over time, including seasonal peaks.
+- Overall decline in revenue for Corporate and Home Office segments. Consumer segment remained stable, with a slight increase. 
+Example: Corporate Revenue significantly dropped from $44.64K in November to $20.52K in December.
 
-- Highlighted high-performing regions contributing most to sales.
+- Furniture and Office Supplies performed well, but category Technology saw the biggest decline.
+Example: Chairs had the biggest sales increase (+$405.24), while Machines saw the biggest drop (-$10.51K).
 
-ii. Direction to Go:
+II. Suggest Actions: 
+- Look at why fewer orders were placed, maybe due to pricing, seasonality, or market trends. 
+- Also explore customer feedback on returns to reduce the return rate.
 
-- Focus on Best Sellers: Prioritize "Phones" and the Consumer segment in your sales and marketing efforts.
-
-- Leverage Sales Trends: Plan promotions during peak sales months and adjust inventory to meet demand.
-
-- Invest in Top Regions: Allocate resources to strengthen presence in high-performing regions and explore opportunities in others.
-
-- Use Data for Decisions: Continuously monitor sales data to make informed, agile business decisions.  
 
 ## Conclusion
 By leveraging Looker Studio for data visualization, we can transform raw sales data into meaningful insights that drive strategic decisions. This project demonstrates the value of visual analytics in understanding business performance and identifying actionable opportunities for growth.
